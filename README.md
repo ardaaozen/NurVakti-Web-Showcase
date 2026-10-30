@@ -1,3 +1,7 @@
+![Nur Vakti Web](assets/premium-cover.svg)
+
+<p align="center"><a href="https://www.nurvakti.app/"><img src="https://raw.githubusercontent.com/ardaaozen/ardaaozen/01c1593/assets/badges/web-tr.png" alt="Web sitesini ziyaret et" height="54"></a> <a href="https://apps.apple.com/app/id6758713590"><img src="https://raw.githubusercontent.com/ardaaozen/ardaaozen/01c1593/assets/badges/app-store-tr.png" alt="App Store'dan indir" height="54"></a> <a href="https://play.google.com/store/apps/details?id=com.ardaozen.nurvakti"><img src="https://raw.githubusercontent.com/ardaaozen/ardaaozen/01c1593/assets/badges/google-play-tr.png" alt="Google Play'den indir" height="54"></a></p>
+
 <div align="center">
 
 <img src="assets/logo.png" alt="Nur Vakti logosu" width="180">
